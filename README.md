@@ -184,3 +184,13 @@ AFFiNE 60k 스타 성장 경험과 150+ 스타트업 컨설팅으로 구축됨.
 ## License
 
 MIT — Use, adapt, and build on this freely.
+
+## 🔗 Related Gingiris Skills
+
+| Skill | Focus | Install |
+|-------|-------|---------|
+| [gingiris-github-star-growth](https://github.com/Gingiris-1031/gingiris-github-star-growth) | GitHub Star Growth Tactics | `clawhub install gingiris-github-star-growth` |
+| [gingiris-launch](https://github.com/Gingiris-1031/gingiris-launch) | Product Hunt & Global Launch | `clawhub install gingiris-launch` |
+| [gingiris-seo-geo](https://github.com/Gingiris-1031/gingiris-seo-geo) | SEO & GEO Dual-Engine Growth | `clawhub install gingiris-seo-geo` |
+
+> 📦 **Full collection:** [gingiris-skills](https://github.com/Gingiris-1031/gingiris-skills) — All playbooks in one bundle.
