@@ -32,6 +32,16 @@ size_categories:
 
 **[English](#english) | [中文](#中文版) | [日本語](#日本語) | [한국어](#한국어)**
 
+> 📌 **Snapshot mirror** — the maintained copy of this playbook lives at **[gingiris-skills/skills/gingiris-opensource](https://github.com/Gingiris-1031/gingiris-skills/tree/main/skills/gingiris-opensource)**; open issues and PRs against the monorepo, not here. Landing page: [gingiris.tools](https://gingiris.tools)
+
+## 📦 Install
+
+```bash
+npx skills add Gingiris-1031/gingiris-opensource
+# or
+clawhub install gingiris-opensource
+```
+
 ---
 
 ## English
@@ -159,10 +169,10 @@ AFFiNE 60k 스타 성장 경험과 150+ 스타트업 컨설팅으로 구축됨.
 
 **Iris (生姜iris)** — Former cofounder & COO of [AFFiNE](https://github.com/toeverything/AFFiNE) ($10M raised, 60k+ GitHub stars). Forbes Asia 30 Under 30. Led open source growth from 0 to 60k stars across 100+ countries, with organic developer acquisition as the primary channel.
 
-- Website: [gingiris.com](https://gingiris.com)
+- Website: [gingiris.tools](https://gingiris.tools)
 - Twitter/X: [@WeiYipei](https://x.com/WeiYipei)
 - Telegram: [@Iris_carrot](https://t.me/Iris_carrot)
-- Blog: [gingiris.github.io/growth-tools](https://gingiris.github.io/growth-tools/)
+- Blog: [gingiris.tools](https://gingiris.tools/)
 
 ---
 
